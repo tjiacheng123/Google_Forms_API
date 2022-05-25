@@ -14,7 +14,7 @@ Before writing the python script, I have configured APIs, set up authentication,
 3. Configuring OAuth consent
 4. Creating access credentials to authenticate the app's end users or service accounts
 
-The Python script performs the following function:
+The [Python script](https://github.com/tjiacheng123/Google_Forms_API/blob/main/Order_Form.ipynb) performs the following function:
 
 1. Use Google Forms API to retrieve the form response and form metadata
 2. Extracting the necessary information from dictionaries nested within lists
