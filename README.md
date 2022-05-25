@@ -7,7 +7,7 @@ My proposed steps are:
 - Step 3: Use Python to translate the orders from Chinese to English and perform data transformation
 - Step 4: Output the orders in a proper format for the vendor
 
-Before writing the python script, I have configured APIs, set up authentication, and manage deployments on Google Cloud Platform. The set up includes:
+Before writing the python script, I have configured APIs, set up authentication, and manage deployments on [Google Cloud Platform](https://developers.google.com/workspace/guides/get-started). The set up includes:
 
 1. Creating a Google Cloud project
 2. Enabling the APIs to use in the Google Cloud project
