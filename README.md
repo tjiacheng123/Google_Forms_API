@@ -14,9 +14,11 @@ Before writing the python script, I have configured APIs, set up authentication,
 3. Configuring OAuth consent
 4. Creating access credentials to authenticate the app's end users or service accounts
 
-The python script performs the following function:
+The Python script performs the following function:
 
 1. Use Google Forms API to retrieve the form response and form metadata
 2. Extracting the necessary information from dictionaries nested within lists
 3. Data transformation
 4. Exporting the transformed data into a txt file
+
+With the Python script, I am able to create an order form for the vendor in less than 1 minute ;).
