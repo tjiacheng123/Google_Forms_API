@@ -1,5 +1,5 @@
 # Google_Forms_API
-Just to provide some background on the rationale for using the Google Forms API. My mother operates a drinks stall but she is only literate in the Chinese language. She relies on me to be the 'procurement officer' of her stall. Every week, she sends me a list of canned drinks order (coke, 100 plus, ice lemon tea etc.) through text in Chinese. On my end, I will translate her orders into English and forward the message to the vendor. The translation takes up about 10 to 15 mins a week and it would take even lesser time if I could automate the process.
+Just to provide some background on the rationale for using the Google Forms API. Client X operates a drinks stall but is only literate in the Chinese language. X relies on me to be the 'procurement officer' of the stall. Every week, X sends me a list of canned drinks order (coke, 100 plus, ice lemon tea etc.) through text in Chinese. On my end, I will translate the orders into English and forward the message to the vendor. The translation takes up about 10 to 15 mins a week and it would take even lesser time if I could automate the process.
 
 My proposed steps are:
 - Step 1: Create a Chinese canned drinks order form on Google Form
